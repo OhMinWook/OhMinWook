@@ -1,5 +1,7 @@
 #### Welcome to NewBee's Project!!!! 👋
 
+
+--- ## 중고마켓과 후원 어플을 제작하고 수정해가고 있는 프로젝트입니다.
 <!--
 **OhMinWook/OhMinWook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
