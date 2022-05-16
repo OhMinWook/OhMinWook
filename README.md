@@ -24,5 +24,6 @@
 
 ## My tech Stack
 ----------------------------------------------------------------------------------------------------------------------------
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+![iOS badge](https://img.shields.io/badge/iOS-13.0%2B-green)
+
 
