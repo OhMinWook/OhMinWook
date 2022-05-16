@@ -24,7 +24,7 @@
 
 ## My tech Stack
 ----------------------------------------------------------------------------------------------------------------------------
-<p> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Html-F05138?style=flat-square&logo=Html&logoColor=white"/> </p>
 
 
 
